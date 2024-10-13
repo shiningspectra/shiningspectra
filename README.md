@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiningspectra (a.k.a Noa)
 - 👀 I’m interested in anime, music and art
 - 🌱 I’m currently learning HTML, CSS and JavaScript (beginner)
-- 📫 How to reach me: Twitter: @shiningspectra/Bluesky: shiningspectra@bsky.social/E-Mail: shiningspectra@proton.me
+- 📫 How to reach me: Twitter: @shiningspectra/Bluesky: shiningspectra.bsky.social/E-Mail: shiningspectra@proton.me
 - 😄 Pronouns: Any pronouns!
 - ⚡ Fun fact: I actually started coding back in 2019, but due to several problem, I only started to come back into coding recently
 
